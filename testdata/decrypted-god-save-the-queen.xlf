@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+    version="1.2"
+    xmlns="urn:oasis:names:tc:xliff:document:1.2"
+    xmlns:ax="AcrossXliff"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"
+    ax:time-stamp="03/15/2016 10:27:04"
+>
+    <file
+        source-language="en-US"
+        ax:src-lang="ee53c166-8f74-4ebf-9539-a2dbbfde8b76"
+        target-language="fr-FR"
+        ax:trg-lang="311d68ef-712b-4a91-bb8f-ff051b664fd7"
+        original="smartmate_GodSaveTheQueen.docx"
+        datatype="x-across-translation"
+        category="General"
+    >
+    
+    <header>
+      <tool tool-id="Across.XLIFF" tool-name="Across.XLIFF" tool-version="1.0" tool-company="Across Systems GmbH" />
+    </header>
+    <body>
+        
+        <trans-unit id="3" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+            <source>
+                <bpt id="1" rid="1" ax:s-id="2" ax:s-is-base-style="True" ax:s-font-name="Calibri Light" ax:s-font-size="16.0" ax:s-fore-color="-13732683" />
+                Why some people don't sing the national anthem
+                <ept id="2" rid="1" />
+            </source>
+        </trans-unit>
+      
+        <trans-unit id="4" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+            <source>
+                <bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />
+                By Jon Kelly BBC News Magazine
+                <ept id="2" rid="1" />
+            </source>
+        </trans-unit>
+        
+      <trans-unit id="5" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />36 minutes ago<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="6" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />From the section <ph id="3" ax:element-id="0">Hyperlink</ph> <ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="9" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source>http://www.bbc.com/news/magazine</source>
+      </trans-unit>
+      <trans-unit id="13" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="1" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /><bpt id="3" rid="2" ax:s-id="1" ax:s-fore-color="-16423999" ax:s-underline="True" />Magazine<ept id="4" rid="2" /><ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="14" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />Image copyright PA <ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="15" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="3" ax:s-is-base-style="True" ax:s-font-name="Calibri Light" ax:s-font-size="13.0" ax:s-fore-color="-13732683" />In today's Magazine<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="19" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source>http://www.bbc.com/news/magazine-34262126</source>
+      </trans-unit>
+      <trans-unit id="23" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="1" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /><bpt id="3" rid="2" ax:s-id="1" ax:s-fore-color="-16423999" ax:s-underline="True" />Jeremy Corbyn's speech, deconstructed <ept id="4" rid="2" /><ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="27" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source>http://www.bbc.com/news/magazine-34247629</source>
+      </trans-unit>
+      <trans-unit id="31" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="1" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /><bpt id="3" rid="2" ax:s-id="1" ax:s-fore-color="-16423999" ax:s-underline="True" />Should we all be looking for marginal gains?<ept id="4" rid="2" /><ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="32" ax:state-name="Touched" ax:state-id="2" ax:state-flags="8519680">
+        <source><bpt id="1" rid="1" ax:s-id="1" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /><bpt id="3" rid="2" ax:s-id="1" ax:s-fore-color="-16423999" ax:s-underline="True" /> <ept id="4" rid="2" /><ept id="2" rid="1" /></source>
+        <target><bpt id="1" rid="1" ax:s-id="1" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /><bpt id="3" rid="2" ax:s-id="1" ax:s-fore-color="-16423999" ax:s-underline="True" /> <ept id="4" rid="2" /><ept id="2" rid="1" /></target>
+      </trans-unit>
+      <trans-unit id="36" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source>http://www.bbc.com/news/blogs-magazine-monitor-34154767</source>
+      </trans-unit>
+      <trans-unit id="40" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="1" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /><bpt id="3" rid="2" ax:s-id="1" ax:s-fore-color="-16423999" ax:s-underline="True" />Where did the word 'crisis' come from?<ept id="4" rid="2" /><ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="41" ax:state-name="Touched" ax:state-id="2" ax:state-flags="8519680">
+        <source><bpt id="1" rid="1" ax:s-id="1" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /><bpt id="3" rid="2" ax:s-id="1" ax:s-fore-color="-16423999" ax:s-underline="True" /> <ept id="4" rid="2" /><ept id="2" rid="1" /></source>
+        <target><bpt id="1" rid="1" ax:s-id="1" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /><bpt id="3" rid="2" ax:s-id="1" ax:s-fore-color="-16423999" ax:s-underline="True" /> <ept id="4" rid="2" /><ept id="2" rid="1" /></target>
+      </trans-unit>
+      <trans-unit id="45" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source>http://www.bbc.com/news/blogs-news-from-elsewhere-34258286</source>
+      </trans-unit>
+      <trans-unit id="49" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="1" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /><bpt id="3" rid="2" ax:s-id="1" ax:s-fore-color="-16423999" ax:s-underline="True" />Iran footballer decries travel laws <ept id="4" rid="2" /><ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="50" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />Jeremy Corbyn has been criticised for staying silent as God Save the Queen was sung.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="51" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />What are people's reasons for refusing to sing along?<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="52" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />The Labour leader has attracted much criticism for not singing along to the national anthem as it played at a Battle of Britain memorial service.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="53" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />Labour sources <ph id="3" ax:element-id="0">Hyperlink</ph> he will sing it at future official events.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="56" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source>http://www.bbc.co.uk/news/uk-politics-34263447</source>
+      </trans-unit>
+      <trans-unit id="60" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="1" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /><bpt id="3" rid="2" ax:s-id="1" ax:s-fore-color="-16423999" ax:s-underline="True" />have said<ept id="4" rid="2" /><ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="61" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />But he's not the first public figure to remain tight-lipped as the song plays.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="62" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />Sporting stars have come under regular criticism for failing to join in, and there are those who have principled reasons for not doing so.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="63" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />So why don't they sing along?<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="64" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="3" ax:s-is-base-style="True" ax:s-font-name="Calibri Light" ax:s-font-size="13.0" ax:s-fore-color="-13732683" />They don't believe in God, or the monarchy<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="65" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />For those who support an elected head of state, singing in praise of a hereditary monarch is politically problematic.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="66" ax:state-name="Touched" ax:state-id="2" ax:state-flags="8519680">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /> <ept id="2" rid="1" /></source>
+        <target><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /> <ept id="2" rid="1" /></target>
+      </trans-unit>
+      <trans-unit id="67" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />Those who don't believe in the existence of a deity might have problems with it too.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="68" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />People in both categories are in a double bind.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="69" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />"As a republican and an atheist why would I sing the national anthem, or hymns?"<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="70" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />asks novelist John Niven, author of the Sunshine Cruise Company.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="71" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />"Belting out praise to entities I don't believe in?<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="72" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />It staggers me that people are shocked by this."<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="73" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />Fellow republican and Times columnist Janice Turner admires the Queen on a personal level, but would prefer an anthem that celebrates the people of the UK rather than their head of state.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="74" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />"It's the sort of thing you'd sing to Kim Jong Il," she says.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="75" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="3" ax:s-is-base-style="True" ax:s-font-name="Calibri Light" ax:s-font-size="13.0" ax:s-fore-color="-13732683" />They don't like the song<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="76" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />You don't have to disagree with the sentiments of God Save The Queen to dislike it.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="77" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />Some people simply consider its melody dirge-like.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="78" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />"Neither the words nor the tune are inspirational or uplifting - compare with Rule Britannia at the last night of the Proms and you can hear the difference a good anthem makes," says Sunday Times columnist Dominic Lawson.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="79" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />He would <ph id="3" ax:element-id="0">Hyperlink</ph> that it were replaced with I Vow To Thee, My Country, with its stirring music by Gustav Holst and words by Cecil Spring Rice.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="80" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />Others favour Land of Hope and Glory.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="81" ax:state-name="Touched" ax:state-id="2" ax:state-flags="8519680">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /> <ept id="2" rid="1" /></source>
+        <target><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /> <ept id="2" rid="1" /></target>
+      </trans-unit>
+      <trans-unit id="84" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source>http://www.independent.co.uk/voices/commentators/dominic-lawson/dominic-lawson-our-athletes-deserve-better-than-this-national-dirge-8010078.html</source>
+      </trans-unit>
+      <trans-unit id="88" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="1" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /><bpt id="3" rid="2" ax:s-id="1" ax:s-fore-color="-16423999" ax:s-underline="True" />prefer<ept id="4" rid="2" /><ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="89" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />A popular alternative - at least in England, which, unlike the other UK nations, does not usually have a unique anthem of its own at sporting events - is Jerusalem.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="90" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />In 2012 Prime Minister David Cameron <ph id="3" ax:element-id="0">Hyperlink</ph> he'd like English sport teams to adopt it.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="93" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source>http://www.telegraph.co.uk/news/politics/david-cameron/9400486/David-Cameron-backs-Jerusalem-as-English-national-anthem.html</source>
+      </trans-unit>
+      <trans-unit id="97" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="1" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /><bpt id="3" rid="2" ax:s-id="1" ax:s-fore-color="-16423999" ax:s-underline="True" />said<ept id="4" rid="2" /><ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="98" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="3" ax:s-is-base-style="True" ax:s-font-name="Calibri Light" ax:s-font-size="13.0" ax:s-fore-color="-13732683" />They don't like singing<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="99" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />Plenty of people can't sing.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="100" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />Ex-England footballer Gary Lineker, who was capped 80 times, admitted he hated joining in with the national anthem because he was "<ph id="3" ax:element-id="0">Hyperlink</ph>" at it.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="101" ax:state-name="Touched" ax:state-id="2" ax:state-flags="8519680">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /> <ept id="2" rid="1" /></source>
+        <target><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /> <ept id="2" rid="1" /></target>
+      </trans-unit>
+      <trans-unit id="104" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source>https://twitter.com/garylineker/status/569626926475825152</source>
+      </trans-unit>
+      <trans-unit id="108" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="1" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /><bpt id="3" rid="2" ax:s-id="1" ax:s-fore-color="-16423999" ax:s-underline="True" />hideously bad<ept id="4" rid="2" /><ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="109" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />For the less mellifluous, weddings and other events that require public singalongs can be excruciating.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="110" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />The best course of action, many decide, is to keep their mouths shut - or, at best, move their lips silently.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="111" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />Others are simply reserved or introverted.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="112" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />When England cricket captain Eoin Morgan stayed silent as the anthem was played, questions were asked about whether the Dublin-born player was making a political statement.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="113" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />His former deputy head teacher <ph id="3" ax:element-id="0">Hyperlink</ph> there was another explanation: "He's a very shy fellow.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="114" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />I would imagine he'd be quite self-conscious singing in that context."<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="117" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source>http://www.telegraph.co.uk/sport/cricket/news/11440756/Why-wont-Eoin-Morgan-sing-God-Save-The-Queen.html</source>
+      </trans-unit>
+      <trans-unit id="121" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="1" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /><bpt id="3" rid="2" ax:s-id="1" ax:s-fore-color="-16423999" ax:s-underline="True" />told the Daily Telegraph<ept id="4" rid="2" /><ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="122" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="3" ax:s-is-base-style="True" ax:s-font-name="Calibri Light" ax:s-font-size="13.0" ax:s-fore-color="-13732683" />They are Scottish<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="123" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />A sixth and final verse of God Save the Queen resolves to "crush" the "rebellious Scots".<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="124" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />It's a line to which many take exception.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="125" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />"The fourth verse is all about Marshall Wade coming up to give us a belt in the mouth," Glaswegian comedian Billy Connolly once <ph id="3" ax:element-id="0">Hyperlink</ph>.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="126" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />"I don't see any rush to Hampden to to crush anybody."<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="127" ax:state-name="Touched" ax:state-id="2" ax:state-flags="8519680">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /> <ept id="2" rid="1" /></source>
+        <target><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /> <ept id="2" rid="1" /></target>
+      </trans-unit>
+      <trans-unit id="130" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source>https://www.youtube.com/watch?v=i9nnnM-__JQ</source>
+      </trans-unit>
+      <trans-unit id="134" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="1" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /><bpt id="3" rid="2" ax:s-id="1" ax:s-fore-color="-16423999" ax:s-underline="True" />complained<ept id="4" rid="2" /><ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="135" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />He suggested it would be a "refreshing change" to replace it with the theme from the Archers.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="136" ax:state-name="Touched" ax:state-id="2" ax:state-flags="8519680">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /> <ept id="2" rid="1" /></source>
+        <target><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /> <ept id="2" rid="1" /></target>
+      </trans-unit>
+      <trans-unit id="137" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />Not all Scots object.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="138" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />First Minister Nicola Sturgeon of the pro-independence SNP <ph id="3" ax:element-id="0">Hyperlink</ph> with God Save the Queen last week as Elizabeth II became the UK's longest-reigning monarch.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="141" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source>https://www.youtube.com/watch?v=gA17CsRffXI</source>
+      </trans-unit>
+      <trans-unit id="145" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="1" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /><bpt id="3" rid="2" ax:s-id="1" ax:s-fore-color="-16423999" ax:s-underline="True" />sang along<ept id="4" rid="2" /><ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="146" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="3" ax:s-is-base-style="True" ax:s-font-name="Calibri Light" ax:s-font-size="13.0" ax:s-fore-color="-13732683" />They don't know the words<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="147" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />Image copyright Getty Images <ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="148" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />According to the British Monarchy's <ph id="3" ax:element-id="0">Hyperlink</ph>, "there is no authorised version of the National Anthem as the words are a matter of tradition", and a maximum of only two verses are ever officially sung.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="149" ax:state-name="Touched" ax:state-id="2" ax:state-flags="8519680">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /> <ept id="2" rid="1" /></source>
+        <target><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /> <ept id="2" rid="1" /></target>
+      </trans-unit>
+      <trans-unit id="152" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source>http://www.royal.gov.uk/MonarchUK/Symbols/NationalAnthem.aspx</source>
+      </trans-unit>
+      <trans-unit id="156" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="1" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /><bpt id="3" rid="2" ax:s-id="1" ax:s-fore-color="-16423999" ax:s-underline="True" />website<ept id="4" rid="2" /><ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="157" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />But while 68% of Britons know at least the first verse by heart, some 43% of 18-to-24-year-olds don't, according to a <ph id="3" ax:element-id="0">Hyperlink</ph>.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="160" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source>https://yougov.co.uk/news/2014/06/05/half-young-brits-dont-know-national-anthem/</source>
+      </trans-unit>
+      <trans-unit id="164" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="1" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /><bpt id="3" rid="2" ax:s-id="1" ax:s-fore-color="-16423999" ax:s-underline="True" />2014 YouGov study<ept id="4" rid="2" /><ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="165" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />England captain Wayne Rooney <ph id="3" ax:element-id="0">Hyperlink</ph> to learn the words when he was criticised for not singing along.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="166" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />He now does sing.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="169" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source>http://www.dailymail.co.uk/news/article-549188/Revealed-The-secret-Wayne-Rooney-sings-national-anthem.html</source>
+      </trans-unit>
+      <trans-unit id="173" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="1" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /><bpt id="3" rid="2" ax:s-id="1" ax:s-fore-color="-16423999" ax:s-underline="True" />offered<ept id="4" rid="2" /><ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="174" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />It's perhaps wiser to keep one's mouth shut if you don't know the words, as former Welsh Secretary John Redwood <ph id="3" ax:element-id="0">Hyperlink</ph> in 1993 as he struggled to mime along to Hen Wlad Fy Nhadau.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="177" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source>https://www.youtube.com/watch?v=RIwBvjoLyZc</source>
+      </trans-unit>
+      <trans-unit id="181" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="1" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /><bpt id="3" rid="2" ax:s-id="1" ax:s-fore-color="-16423999" ax:s-underline="True" />discovered<ept id="4" rid="2" /><ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="182" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="3" ax:s-is-base-style="True" ax:s-font-name="Calibri Light" ax:s-font-size="13.0" ax:s-fore-color="-13732683" />They are the Queen<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="183" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />Image copyright Getty Images <ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="184" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />The monarch herself typically doesn't sing along when the anthem is played, says Ingrid Seward, editor of Majesty magazine.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="185" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />It might look rather odd if she did.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="186" ax:state-name="Untouched" ax:state-id="1" ax:state-flags="0">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" />In keeping silent during God Save The Queen, at least, she has something in common with the leader of her loyal opposition.<ept id="2" rid="1" /></source>
+      </trans-unit>
+      <trans-unit id="187" ax:state-name="Touched" ax:state-id="2" ax:state-flags="8519680">
+        <source><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /> <ept id="2" rid="1" /></source>
+        <target><bpt id="1" rid="1" ax:s-id="12" ax:s-is-base-style="True" ax:s-font-name="Calibri" ax:s-font-size="11.0" ax:s-fore-color="-16777206" /> <ept id="2" rid="1" /></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

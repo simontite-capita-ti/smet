@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="MtEnhancedTradosPlugin/MtEnhancedTradosPlugin.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="v2015_Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MtEnhancedTradosPlugin/MstConnect/ApiConnecter.cs">
+    <Files>
+      <File FileName="MtEnhancedTradosPlugin/MtTranslationProvider.cs" Line="1" Column="1" />
+      <File FileName="MtEnhancedTradosPlugin/MstConnect/ApiConnecter.cs" Line="45" Column="55" />
+      <File FileName="MtEnhancedTradosPlugin/MtProviderConfDialog.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
